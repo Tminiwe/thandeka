@@ -1,0 +1,2 @@
+# thandeka
+employment at bash
